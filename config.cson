@@ -1,0 +1,12 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+    preferredLineLength: 160
+    showIndentGuide: true
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "7c0a11e9-8a3e-5f91-dc56-4b3e8542630f"
+  welcome:
+    showOnStartup: false
