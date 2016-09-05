@@ -3,3 +3,11 @@ compile-cache
 dev
 .npm
 .node-gyp
+
+.apm
+.node-gyp
+blob-store/
+compile-cache/
+packages/
+recovery/
+storage/
